@@ -1,0 +1,13 @@
+.btn-application{
+  background-color: #3ac162;
+  color: white;
+  padding: 10px 24px;
+  border-radius: 50px;
+  font-weight: 300;
+  display: inline-block;
+}
+
+.btn-application:hover{
+  background-color: #17b243;
+}
+
